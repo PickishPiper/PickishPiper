@@ -3,13 +3,13 @@
 
 <br>
 <ul>
-<li>🌱 I'm currently learning full stack development with a current focus on reactive websites.</li>
-<li>🤔 I'm looking for help with finding daily or weekly coding mini-challenges.</li>
-<li>💻 I'm currently working on SheCodes Reactive, LinkedIn Learning full stack development, and Google Certifications
+<li>🌱 Currently learning full stack development with a current focus on reactive websites.</li>
+<li>🤔 Looking for help with finding daily or weekly coding mini-challenges.</li>
+<li>💻 Currently working on SheCodes Reactive, LinkedIn Learning full stack development, and Google Certifications
    as well as creating my photography website and imaging services.</li>
 <li> 👩‍🎓 I am back at school part-time for Funeral Service Education.</li> 
-<li> 🧜‍♂️ Fun fact: I am SCUBA diver and an underwater photographer and love photographing mermaids! 🧜‍♀️
-  <li> ❓ Ask me about: roller derby, underwater photography, SCUBA diving, strongman, mermaids.</li> 
-<li> 📪 reach me: <a href="mailto:LMarchiondo.photo@gmail.com">LMarchiondo.photo@gmail.com</a>
+<li> 🧜‍♂️ Fun fact: I am a SCUBA diver and an underwater photographer - I love photographing mermaids! 🧜‍♀️
+  <li> ❓ Ask me about: roller derby, underwater photography, SCUBA diving, strongman, stained glass art.</li> 
+<li> 📪 Reach me: <a href="mailto:LMarchiondo.photo@gmail.com">LMarchiondo.photo@gmail.com</a>
   <li>💪 Pronouns: she/her</li>  
 </ul>
