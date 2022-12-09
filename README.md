@@ -3,7 +3,7 @@
 
 <br>
 <ul>
-<li>🌱 Currently learning full stack development with a current focus on reactive websites.</li>
+<li>🌱 Currently learning full stack development with a current on reactive websites.</li>
 <li>🤔 Looking for help with finding daily or weekly coding mini-challenges.</li>
 <li>💻 Currently working on SheCodes Reactive, LinkedIn Learning full stack development, and Google Certifications
    as well as creating my photography website and imaging services.</li>
